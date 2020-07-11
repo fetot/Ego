@@ -1,0 +1,48 @@
+{
+  "project_info": {
+    "project_number": "401697781385",
+    "firebase_url": "https://fetot-e7be8.firebaseio.com",
+    "project_id": "fetot-e7be8",
+    "storage_bucket": "fetot-e7be8.appspot.com"
+  },
+  "client": [
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:401697781385:android:f9f3408817abaccf64f858",
+        "android_client_info": {
+          "package_name": "com.ego"
+        }
+      },
+      "oauth_client": [
+        {
+          "client_id": "401697781385-gtqd16gse3bb6u06t9q89rqrrerlc2o3.apps.googleusercontent.com",
+          "client_type": 1,
+          "android_info": {
+            "package_name": "com.ego",
+            "certificate_hash": "5e8f16062ea3cd2c4a0d547876baa6f38cabf625"
+          }
+        },
+        {
+          "client_id": "401697781385-6o5nhcmfuh3q58nd94n3pdikc71821sd.apps.googleusercontent.com",
+          "client_type": 3
+        }
+      ],
+      "api_key": [
+        {
+          "current_key": "AIzaSyA-Xf1At_VViwfNQrw44nnEdPwyXPLUVX0"
+        }
+      ],
+      "services": {
+        "appinvite_service": {
+          "other_platform_oauth_client": [
+            {
+              "client_id": "401697781385-6o5nhcmfuh3q58nd94n3pdikc71821sd.apps.googleusercontent.com",
+              "client_type": 3
+            }
+          ]
+        }
+      }
+    }
+  ],
+  "configuration_version": "1"
+}
